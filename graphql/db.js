@@ -1,6 +1,6 @@
 export const people = [
   {
-    id: "0",
+    id: 0,
     name: "Nicolas",
     age: 18,
     gender: "female"
