@@ -1,3 +1,5 @@
+import { people, getById } from "./db";
+
 const gwuiin = {
   name: "Gwuiin",
   age: 23,
@@ -6,7 +8,7 @@ const gwuiin = {
 
 const resolvers = {
   Query: {
-    person: () => gwuiin
+    people: () => people
   }
 };
 
