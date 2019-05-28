@@ -6,3 +6,7 @@ Moive API with graphQL
 
 - solve overfetching problem
 - solve underfe tching problem
+
+### Axios
+
+response.data
