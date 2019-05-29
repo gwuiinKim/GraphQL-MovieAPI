@@ -1,0 +1,12 @@
+{
+  "name": "movieql",
+  "version": 2,
+  "alias": "movieql",
+  "builds": [
+    { "src": "src/*.js", "use": "@now/node" },
+    { "src": "src/graphql/*.js", "use": "@now/node" }
+  ],
+  "github": {
+    "enabled": true
+  }
+}
