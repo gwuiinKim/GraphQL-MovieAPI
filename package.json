@@ -10,7 +10,7 @@
     "@babel/core": "^7.4.5",
     "@babel/node": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "graphql-yoga": "^1.17.4",
     "node-fetch": "^2.6.0",
     "nodemon": "^1.19.0"
